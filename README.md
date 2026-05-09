@@ -1,2 +1,3 @@
 # Communism.GG
-Cool roblox script that i made
+Main.lua - The script
+Autoupdate.lua - Loadstring to auto update
